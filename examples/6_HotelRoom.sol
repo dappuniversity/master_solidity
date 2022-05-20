@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+// Showcase payment transfers, enums, modifiers & events
+
 contract HotelRoom {
     enum Statuses {
         Vacant,
